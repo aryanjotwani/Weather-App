@@ -1,1 +1,1 @@
-# Weather-App
+This project is a minimalist weather application built with HTML5, CSS, and JavaScript. It utilizes the OpenWeatherMap API to retrieve real-time weather data based on user input or location. The app features an intuitive interface allowing users to search for weather conditions by city name or use geolocation to fetch local weather information. The weather details include temperature, description, and humidity, along with an icon depicting the current weather status.
